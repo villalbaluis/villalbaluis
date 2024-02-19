@@ -43,7 +43,7 @@ Nice to meet you, man. I'm Luis, a young software developer from Colombia.
 
 * [📤 Send me an email](mailto:luisvillalba244@gmail.com)!
 * [📱 Get my LinkedIn](https://www.linkedin.com/in/villalbaluiz/)!
-* 😺 And don't forget  to checjout my [GitHub](https://github.com/villalbaluis).
+* 😺 And don't forget  to checkout my [GitHub](https://github.com/villalbaluis).
 
 ---
 
